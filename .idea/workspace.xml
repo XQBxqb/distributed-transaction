@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fdbf38b-89c1-4c64-844d-d4f5d826584c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_reposity" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.9.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ex46skXb2rqchpZzyDAbFZSjZC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/ideaProject/distributed-transaction/distributed-module-client/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "e3856f08e93cadd96e051a844306d43e",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\distributed-transaction\distributed-module-client\src\main\resources" />
+      <recent name="D:\ideaProject\distributed-transaction\distributed-module-tx\distributed-module-tx-biz\src\main\resources" />
+      <recent name="D:\ideaProject\distributed-transaction\distributed-module-tx\distributed-module-tx-biz\src\main\java\cn\distributed\transaction" />
+      <recent name="D:\ideaProject\distributed-transaction\distributed-module-tx\src\main\java\cn\distributed\transaction\tx" />
+      <recent name="D:\ideaProject\distributed-transaction\distributed-module-tx\src\main\java\cn\distributed\transaction\tx\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.distributed.transaction.config" />
+      <recent name="cn.distributed.transaction" />
+      <recent name="cn.distributed.transaction.res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceoApplication">
+    <configuration name="BTUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.distributed.transaction.utils.BTUtils" />
+      <module name="distributed-module-serviceo-biz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.distributed.transaction.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-module-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.distributed.transaction.ClientApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.distributed.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-module-serviceo-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.distributed.transaction.ServiceoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.distributed.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="distributed-module-tx-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.distributed.transaction.tx.TxApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.distributed.transaction.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BTUtils" />
+      <item itemvalue="Spring Boot.ClientApplication" />
+      <item itemvalue="Spring Boot.ServiceoApplication" />
+      <item itemvalue="Spring Boot.TxApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TxApplication" />
+        <item itemvalue="Spring Boot.ServiceoApplication" />
+        <item itemvalue="Spring Boot.ClientApplication" />
+        <item itemvalue="Application.BTUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fdbf38b-89c1-4c64-844d-d4f5d826584c" name="Changes" comment="" />
+      <created>1712832722891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712832722891</updated>
+      <workItem from="1712832724254" duration="7678000" />
+      <workItem from="1712904582429" duration="11750000" />
+      <workItem from="1712988176738" duration="11128000" />
+      <workItem from="1712999330287" duration="10402000" />
+      <workItem from="1713009795549" duration="36000" />
+      <workItem from="1713016092214" duration="3309000" />
+      <workItem from="1713076541836" duration="51000" />
+      <workItem from="1713079629334" duration="9751000" />
+      <workItem from="1713089856625" duration="11722000" />
+      <workItem from="1713150173087" duration="7535000" />
+      <workItem from="1713179625246" duration="8767000" />
+      <workItem from="1713231769330" duration="726000" />
+      <workItem from="1713242879572" duration="1119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/distributed-module-serviceo/distributed-module-serviceo-biz/src/main/java/cn/distributed/transaction/api/ServiceoBookApiImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="parameter" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

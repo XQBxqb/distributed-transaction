@@ -1,0 +1,251 @@
+2024-04-12 15:20:43.052 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:20:43.572 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:20:43.646 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=02b1c534-e797-32a4-a263-d4911db5326b
+2024-04-12 15:20:43.736 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:20:43.737 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:20:43.743 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:20:43.743 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:20:43.782 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:20:44.102 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:20:46.396 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 6.268 seconds (JVM running for 7.824)
+2024-04-12 15:20:46.402 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:20:46.411 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:22:29.043 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:22:29.579 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:22:29.658 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=02b1c534-e797-32a4-a263-d4911db5326b
+2024-04-12 15:22:29.752 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:22:29.752 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:22:29.758 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:22:29.759 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:22:29.798 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:22:30.087 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:22:32.317 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 5.772 seconds (JVM running for 7.165)
+2024-04-12 15:22:32.321 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:22:32.326 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:23:58.499 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:23:59.127 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:23:59.182 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=2496b954-9870-3288-b169-73ea232826e0
+2024-04-12 15:23:59.528 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:23:59.539 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:23:59.539 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:23:59.539 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:23:59.691 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:23:59.691 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1174 ms
+2024-04-12 15:23:59.767 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:23:59.768 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:23:59.775 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:23:59.775 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:23:59.895 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:24:00.018 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:24:00.363 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:24:02.469 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:24:02.490 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:24:03.279 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 7.121 seconds (JVM running for 8.447)
+2024-04-12 15:26:30.012 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:26:30.025 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:26:30.026 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:26:47.315 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:26:47.904 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:26:47.961 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=2ed1520d-fed6-37da-9f40-af95588a965d
+2024-04-12 15:26:48.281 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:26:48.292 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:26:48.292 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:26:48.293 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:26:48.456 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:26:48.456 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1125 ms
+2024-04-12 15:26:48.530 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:26:48.531 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:26:48.536 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:26:48.536 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:26:48.666 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:26:49.568 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:26:49.618 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:26:49.935 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:26:52.197 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-04-12 15:26:52.198 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-04-12 15:26:55.062 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:26:55.080 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:26:55.100 [main] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:75 - nacos registry, DEFAULT_GROUP tx 10.56.41.138:9000 register finished
+2024-04-12 15:26:55.945 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 11.058 seconds (JVM running for 12.539)
+2024-04-12 15:28:40.255 [Thread-16] WARN  com.alibaba.nacos.common.notify.NotifyCenter:136 - [NotifyCenter] Start destroying Publisher
+2024-04-12 15:28:40.255 [Thread-19] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:108 - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-04-12 15:28:40.255 [Thread-16] WARN  com.alibaba.nacos.common.notify.NotifyCenter:153 - [NotifyCenter] Destruction of the end
+2024-04-12 15:28:40.256 [Thread-19] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:114 - [HttpClientBeanHolder] Destruction of the end
+2024-04-12 15:28:40.796 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:28:40.802 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:28:40.810 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:28:40.811 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:94 - De-registering from Nacos Server now...
+2024-04-12 15:28:40.817 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:114 - De-registration finished.
+2024-04-12 15:28:41.153 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:28:52.813 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:28:53.483 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:28:53.539 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=2ed1520d-fed6-37da-9f40-af95588a965d
+2024-04-12 15:28:53.889 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:28:53.901 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:28:53.902 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:28:53.902 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:28:54.068 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:28:54.068 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1238 ms
+2024-04-12 15:28:54.142 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:28:54.143 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:28:54.148 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:28:54.149 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:28:54.302 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:28:55.420 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:28:55.472 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:28:55.792 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:28:58.260 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-04-12 15:28:58.261 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-04-12 15:29:00.928 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:29:00.944 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:29:00.959 [main] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:75 - nacos registry, DEFAULT_GROUP serviceo 10.56.41.138:9000 register finished
+2024-04-12 15:29:01.765 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 11.419 seconds (JVM running for 12.832)
+2024-04-12 15:41:45.243 [Thread-16] WARN  com.alibaba.nacos.common.notify.NotifyCenter:136 - [NotifyCenter] Start destroying Publisher
+2024-04-12 15:41:45.243 [Thread-19] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:108 - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-04-12 15:41:45.243 [Thread-16] WARN  com.alibaba.nacos.common.notify.NotifyCenter:153 - [NotifyCenter] Destruction of the end
+2024-04-12 15:41:45.243 [Thread-19] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:114 - [HttpClientBeanHolder] Destruction of the end
+2024-04-12 15:41:45.875 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:41:45.881 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:41:45.883 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:41:45.883 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:94 - De-registering from Nacos Server now...
+2024-04-12 15:41:45.888 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:114 - De-registration finished.
+2024-04-12 15:41:46.221 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:42:07.391 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:42:08.083 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:42:08.157 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=2ed1520d-fed6-37da-9f40-af95588a965d
+2024-04-12 15:42:08.531 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:42:08.542 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:42:08.542 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:42:08.543 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:42:08.720 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:42:08.720 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1309 ms
+2024-04-12 15:42:08.799 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:42:08.799 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:42:08.804 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:42:08.804 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:42:08.940 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:42:09.964 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:42:10.012 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:42:10.396 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:42:12.771 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-04-12 15:42:12.771 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-04-12 15:42:15.695 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:42:15.713 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:42:15.724 [main] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:75 - nacos registry, DEFAULT_GROUP serviceo 10.56.41.138:9000 register finished
+2024-04-12 15:42:16.616 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 12.14 seconds (JVM running for 13.695)
+2024-04-12 15:42:40.983 [http-nio-9000-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-12 15:42:40.983 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2024-04-12 15:42:40.989 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 6 ms
+2024-04-12 15:42:41.001 [http-nio-9000-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver:199 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2024-04-12 15:44:03.107 [Thread-25] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:108 - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-04-12 15:44:03.107 [Thread-22] WARN  com.alibaba.nacos.common.notify.NotifyCenter:136 - [NotifyCenter] Start destroying Publisher
+2024-04-12 15:44:03.108 [Thread-22] WARN  com.alibaba.nacos.common.notify.NotifyCenter:153 - [NotifyCenter] Destruction of the end
+2024-04-12 15:44:03.108 [Thread-25] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:114 - [HttpClientBeanHolder] Destruction of the end
+2024-04-12 15:44:03.723 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:44:03.728 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:44:03.737 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:44:03.738 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:94 - De-registering from Nacos Server now...
+2024-04-12 15:44:03.742 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:114 - De-registration finished.
+2024-04-12 15:44:04.072 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:44:29.169 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:44:29.824 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.distributed.transaction]' package. Please check your configuration.
+2024-04-12 15:44:29.894 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=2ed1520d-fed6-37da-9f40-af95588a965d
+2024-04-12 15:44:30.276 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:44:30.287 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:44:30.288 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:44:30.289 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:44:30.471 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:44:30.471 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1285 ms
+2024-04-12 15:44:30.551 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:44:30.551 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:44:30.556 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:44:30.557 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:44:30.701 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:44:31.740 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:44:31.799 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:44:32.157 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:44:34.648 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-04-12 15:44:34.648 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-04-12 15:44:37.624 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:44:37.647 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:44:37.658 [main] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:75 - nacos registry, DEFAULT_GROUP serviceo 10.56.41.138:9000 register finished
+2024-04-12 15:44:38.504 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 12.137 seconds (JVM running for 13.592)
+2024-04-12 15:44:50.653 [http-nio-9000-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-12 15:44:50.654 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2024-04-12 15:44:50.659 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 5 ms
+2024-04-12 15:45:10.403 [Thread-25] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:108 - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-04-12 15:45:10.403 [Thread-22] WARN  com.alibaba.nacos.common.notify.NotifyCenter:136 - [NotifyCenter] Start destroying Publisher
+2024-04-12 15:45:10.403 [Thread-22] WARN  com.alibaba.nacos.common.notify.NotifyCenter:153 - [NotifyCenter] Destruction of the end
+2024-04-12 15:45:10.404 [Thread-25] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:114 - [HttpClientBeanHolder] Destruction of the end
+2024-04-12 15:45:11.042 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:45:11.048 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:45:11.058 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:45:11.059 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:94 - De-registering from Nacos Server now...
+2024-04-12 15:45:11.064 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:114 - De-registration finished.
+2024-04-12 15:45:11.422 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:57:57.839 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:57:58.771 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=e18fc3b9-453e-3548-8d1c-f901825b5869
+2024-04-12 15:57:59.148 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:57:59.160 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:57:59.161 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:57:59.161 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:57:59.344 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:57:59.344 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1487 ms
+2024-04-12 15:57:59.557 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:58:00.051 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:58:01.477 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:58:01.478 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:58:01.484 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:58:01.484 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:58:01.627 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:58:02.676 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:58:04.002 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-04-12 15:58:04.002 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-04-12 15:58:05.745 [Thread-23] WARN  com.alibaba.nacos.common.notify.NotifyCenter:136 - [NotifyCenter] Start destroying Publisher
+2024-04-12 15:58:05.745 [Thread-26] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:108 - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-04-12 15:58:05.745 [Thread-23] WARN  com.alibaba.nacos.common.notify.NotifyCenter:153 - [NotifyCenter] Destruction of the end
+2024-04-12 15:58:05.746 [Thread-26] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:114 - [HttpClientBeanHolder] Destruction of the end
+2024-04-12 15:58:07.246 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:58:07.256 [main] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:75 - nacos registry, DEFAULT_GROUP serviceo 10.56.41.138:9000 register finished
+2024-04-12 15:58:08.136 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 13.012 seconds (JVM running for 14.604)
+2024-04-12 15:58:08.816 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:58:08.822 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:94 - De-registering from Nacos Server now...
+2024-04-12 15:58:08.825 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:114 - De-registration finished.
+2024-04-12 15:58:09.485 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:58:09.486 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:58:09.494 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
+2024-04-12 15:58:19.874 [main] INFO  cn.distributed.transaction.ServiceoApplication:648 - No active profile set, falling back to default profiles: default
+2024-04-12 15:58:20.597 [main] INFO  o.springframework.cloud.context.scope.GenericScope:295 - BeanFactory id=e18fc3b9-453e-3548-8d1c-f901825b5869
+2024-04-12 15:58:20.935 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9000 (http)
+2024-04-12 15:58:20.946 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:58:20.946 [main] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2024-04-12 15:58:20.946 [main] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-04-12 15:58:21.116 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2024-04-12 15:58:21.116 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1226 ms
+2024-04-12 15:58:21.302 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2024-04-12 15:58:21.676 [main] INFO  com.alibaba.druid.pool.DruidDataSource:985 - {dataSource-1} inited
+2024-04-12 15:58:22.928 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:58:22.929 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:58:22.934 [main] WARN  com.netflix.config.sources.URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2024-04-12 15:58:22.934 [main] INFO  com.netflix.config.sources.URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-04-12 15:58:23.069 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:58:23.974 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:58:25.006 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-04-12 15:58:25.007 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager:56 - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-04-12 15:58:27.751 [main] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9000"]
+2024-04-12 15:58:27.769 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9000 (http) with context path ''
+2024-04-12 15:58:27.780 [main] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:75 - nacos registry, DEFAULT_GROUP serviceo 10.56.41.138:9000 register finished
+2024-04-12 15:58:28.578 [main] INFO  cn.distributed.transaction.ServiceoApplication:61 - Started ServiceoApplication in 11.042 seconds (JVM running for 12.518)
+2024-04-12 15:58:34.577 [http-nio-9000-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-12 15:58:34.577 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2024-04-12 15:58:34.585 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 7 ms
+2024-04-12 15:59:35.674 [Thread-24] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:108 - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-04-12 15:59:35.674 [Thread-21] WARN  com.alibaba.nacos.common.notify.NotifyCenter:136 - [NotifyCenter] Start destroying Publisher
+2024-04-12 15:59:35.674 [Thread-21] WARN  com.alibaba.nacos.common.notify.NotifyCenter:153 - [NotifyCenter] Destruction of the end
+2024-04-12 15:59:35.675 [Thread-24] WARN  com.alibaba.nacos.common.http.HttpClientBeanHolder:114 - [HttpClientBeanHolder] Destruction of the end
+2024-04-12 15:59:36.296 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-04-12 15:59:36.305 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:94 - De-registering from Nacos Server now...
+2024-04-12 15:59:36.307 [SpringContextShutdownHook] INFO  c.a.cloud.nacos.registry.NacosServiceRegistry:114 - De-registration finished.
+2024-04-12 15:59:36.649 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-04-12 15:59:36.651 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2032 - {dataSource-1} closing ...
+2024-04-12 15:59:36.659 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource:2104 - {dataSource-1} closed
