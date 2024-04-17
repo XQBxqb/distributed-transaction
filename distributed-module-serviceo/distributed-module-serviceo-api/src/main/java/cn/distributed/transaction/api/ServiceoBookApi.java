@@ -31,7 +31,7 @@ public interface ServiceoBookApi {
     //使用feign接口传递List，用@RequestBody
     @PostMapping("/feign"+PREFIX+"/addBooks")
     public RestRes<?> addBooks(@RequestBody List<BookDto> bookDtoList);
-    @GetMapping("/feign"+PREFIX+"/updateBooksNumberDes")
+    @PostMapping("/feign"+PREFIX+"/updateBooksNumberDes")
     public RestRes<?> updateBooksNumberDes(Integer number);
 
     @PostMapping("/rollback")

@@ -71,7 +71,7 @@ public class TXApiImpl implements TXApi {
 
             //回滚事务后解行锁
             List<String> lockIds = bts[i].getLockIds();
-            lockIds.forEach(t->redissonService.deleteIngoreNotExists(t));
+            lockIds.forEach(t->redissonService.deleteIngoreNotExists(TXConsts.PREFIX_REDIS_COLUMN_KEY_LOCK+"-"+t));
 
         }
         log.info("回滚完毕");
@@ -80,7 +80,7 @@ public class TXApiImpl implements TXApi {
     //从后向前解锁，实现上来讲从前往后效果是一样的
     private void unLock(List<TXLocal.BT> bts){
         for(int i=bts.size()-1;i>=0;i--){
-            bts.get(i).getLockIds().forEach(t->redissonService.deleteIngoreNotExists(t));
+            bts.get(i).getLockIds().forEach(t->redissonService.deleteIngoreNotExists(TXConsts.PREFIX_REDIS_COLUMN_KEY_LOCK+"-"+t));
         }
     }
 }

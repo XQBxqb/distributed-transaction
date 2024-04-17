@@ -6,21 +6,19 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
-
-@TableName("book")
+@TableName(value = "undo_log")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Book {
-    private String id;
+public class UndoLog {
 
-    private String name;
+    private String xid;
 
-    private Integer cost;
-
+    private String branchId;
+    private Boolean logStatus;
+    private byte[] logInfoBefore;
+    private byte[] logInfoAfter;
+    private Integer order;
     private LocalDateTime createTime;
-
     private LocalDateTime updateTime;
-
-    private Integer number;
 }

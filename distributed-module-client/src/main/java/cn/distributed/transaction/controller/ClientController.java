@@ -27,7 +27,7 @@ public class ClientController {
     public RestRes clientService(){
         ArrayList<InvocationDto> invocationDtos = new ArrayList<>();
         //添加一个book
-        //invocationDtos.add(new InvocationDto(ServiceoBookApi.class.getName(),"addBook",new Object[]{new BookDto(IdUtil.randomUUID(),"math",1, LocalDateTime.now(),LocalDateTime.now(),1)},new Class[]{BookDto.class},0));
+        invocationDtos.add(new InvocationDto(ServiceoBookApi.class.getName(),"addBook",new Object[]{new BookDto(IdUtil.randomUUID(),"math",1, LocalDateTime.now(),LocalDateTime.now(),1)},new Class[]{BookDto.class},0));
         //添加多个book
         List<BookDto> bookDtos = new ArrayList<>();
         bookDtos.add(new BookDto(IdUtil.randomUUID(),"math5",1,LocalDateTime.now(),LocalDateTime.now(),10));

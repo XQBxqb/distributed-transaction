@@ -6,4 +6,6 @@ public class TXConsts {
     public static final String FEIGN_HEADER_XID_NAME = "xid";
     public static final String FEIGN_HEADER_ORDER_NAME = "order";
     public static final String FEIGN_HEADER_BID_NAME = "bid";
+
+    public static final String PREFIX_REDIS_COLUMN_KEY_LOCK = "PREFIX_REDIS_COLUMN_KEY_LOCK";
 }

@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fdbf38b-89c1-4c64-844d-d4f5d826584c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-module-client/src/main/java/cn/distributed/transaction/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-module-client/src/main/java/cn/distributed/transaction/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-module-serviceo/distributed-module-serviceo-biz/src/main/java/cn/distributed/transaction/interceptor/BTPreInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-module-serviceo/distributed-module-serviceo-biz/src/main/java/cn/distributed/transaction/interceptor/BTPreInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-module-tx/distributed-module-tx-biz/src/main/java/cn/distributed/transaction/tx/api/TXApiImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-module-tx/distributed-module-tx-biz/src/main/java/cn/distributed/transaction/tx/api/TXApiImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-module-tx/distributed-module-tx-biz/src/main/java/cn/distributed/transaction/tx/consts/TXConsts.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-module-tx/distributed-module-tx-biz/src/main/java/cn/distributed/transaction/tx/consts/TXConsts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-module-tx/distributed-module-tx-biz/src/main/java/cn/distributed/transaction/tx/rpc/FeignApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-module-tx/distributed-module-tx-biz/src/main/java/cn/distributed/transaction/tx/rpc/FeignApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +183,7 @@
       <workItem from="1713150173087" duration="7535000" />
       <workItem from="1713179625246" duration="8767000" />
       <workItem from="1713231769330" duration="726000" />
-      <workItem from="1713242879572" duration="1119000" />
+      <workItem from="1713242879572" duration="6008000" />
     </task>
     <servers />
   </component>
@@ -187,15 +191,6 @@
     <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/distributed-module-serviceo/distributed-module-serviceo-biz/src/main/java/cn/distributed/transaction/api/ServiceoBookApiImpl.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
         <watch expression="parameter" />

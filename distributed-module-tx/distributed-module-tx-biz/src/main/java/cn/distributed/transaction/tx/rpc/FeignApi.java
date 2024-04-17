@@ -2,8 +2,8 @@ package cn.distributed.transaction.tx.rpc;
 
 
 import cn.distributed.transaction.api.ServiceoBookApi;
-import cn.distributed.transaction.res.RestRes;
 import cn.distributed.transaction.dto.InvocationDto;
+import cn.distributed.transaction.res.RestRes;
 import cn.distributed.transaction.tx.utils.SpringContextUtil;
 import cn.hutool.json.JSONUtil;
 import lombok.SneakyThrows;
@@ -12,9 +12,7 @@ import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import java.lang.reflect.Method;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 
 /**
  * 首先能够根据全类名可以动态获取对应api的Bean，然后能够通过这个对象执行对应的方法
@@ -45,13 +43,9 @@ public class FeignApi {
         Object[] parseParams = new Object[paramsType.length];
 
         for(int i=0;i< initialParams.length;i++){
-            parseParams[i]=JSONUtil.parse(JSONUtil.parse(initialParams[i])).toBean(paramsType[i]);
+            parseParams[i]=JSONUtil.parse(JSONUtil.toJsonStr(initialParams[i])).toBean(paramsType[i]);
         }
          restRes = (RestRes) method.invoke(obj,parseParams);
         return restRes;
-    }
-
-    public static void main(String[] args) {
-
     }
 }
